@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/personal_website/static/css/main.addb8e0c.css",
+    "main.js": "/personal_website/static/js/main.cb3208a3.js",
+    "static/media/safariQuest.png": "/personal_website/static/media/safariQuest.0460b8ce1e975f00024f.png",
+    "static/media/vroomvista.png": "/personal_website/static/media/vroomvista.4dd1aaa5acab4e4024b4.png",
+    "static/media/books.png": "/personal_website/static/media/books.e4322bd0bcb14a9fde20.png",
+    "static/media/gradient.png": "/personal_website/static/media/gradient.ce4f2570e3f1bfc80361.png",
+    "static/media/uh-page.png": "/personal_website/static/media/uh-page.c99e72e62b70a1367a38.png",
+    "static/media/hands.jpg": "/personal_website/static/media/hands.3946015086aef45a3204.jpg",
+    "static/media/picture.jpeg": "/personal_website/static/media/picture.8aa930370046ba4b9038.jpeg",
+    "index.html": "/personal_website/index.html",
+    "main.addb8e0c.css.map": "/personal_website/static/css/main.addb8e0c.css.map",
+    "main.cb3208a3.js.map": "/personal_website/static/js/main.cb3208a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.addb8e0c.css",
+    "static/js/main.cb3208a3.js"
+  ]
+}
